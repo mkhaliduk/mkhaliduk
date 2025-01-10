@@ -8,4 +8,4 @@ I am currently learning Python programming and principles of Cyber Security. I a
 
 ## Connect with me
 
-![LinkedIn] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohammad-khalid-54252535)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohammad-khalid-54252535)
